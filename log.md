@@ -10,3 +10,11 @@ Then I read up on the PEP8 guide. I love that python has a well defined style gu
 **Link(s) to work**
 1. [Coding For Entrepreneurs](https://www.codingforentrepreneurs.com/)
 2. [30 Days of Python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6)
+
+### Day 2: May 11, 2020
+**Today's Progress**: Worked on Lists and Dictionaries today, which apparently are the equivalent of arrays and objects in other languages.
+Iterations and loops came easy, no much change from what im used to.
+
+
+**Thoughts**: Yeah I already knew this but this is just another iteration...The most important thing just seems to be learning foundations,
+most surtaxes and constructs are similar, regardless of Programming language. You can call this learning first principles
