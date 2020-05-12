@@ -18,3 +18,11 @@ Iterations and loops came easy, no much change from what im used to.
 
 **Thoughts**: Yeah I already knew this but this is just another iteration...The most important thing just seems to be learning foundations,
 most surtaxes and constructs are similar, regardless of Programming language. You can call this learning first principles
+
+
+
+### Day 3: May 12, 2020
+**Today's Progress**: Today was all about classes and inheritance in python.
+
+
+**Thoughts**: Python is definitely getting interesting.
