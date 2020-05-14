@@ -26,3 +26,8 @@ most surtaxes and constructs are similar, regardless of Programming language. Yo
 
 
 **Thoughts**: Python is definitely getting interesting.
+
+### Day 4: May 13, 2020
+**Today's Progress**: Went back a little to learn about string formatting and F strings, which are used for interpolating 
+variables in python.
+And also the format function, which can be used in changing  your variables output.
